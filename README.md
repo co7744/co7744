@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @co7744
+- 👀 I’m interested in Everyting using Programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Fintech 
+- 📫 How to reach me co7744@gmail.com
